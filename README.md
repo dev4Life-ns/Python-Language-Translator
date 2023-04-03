@@ -11,3 +11,18 @@ Application converts text in real-time while user presses keys.
 - PyCharm
 - Tkinter GUI
 - Translate Package
+
+## :eyes: Sceenshots
+<details>
+<summary>Program Screenshots</summary>
+
+![chinese](https://user-images.githubusercontent.com/81055110/229426267-459f717d-1e6b-427e-aaeb-03d87db3d38b.png)
+
+![czech](https://user-images.githubusercontent.com/81055110/229426298-bb323eb9-27c4-4036-9ea5-61461ac9f2dd.png)
+
+![persian](https://user-images.githubusercontent.com/81055110/229426405-7641f239-82e1-4bae-bcc8-daeef5c7eef9.png)
+
+![portuguese](https://user-images.githubusercontent.com/81055110/229426436-1ff3c1ce-c1c7-42a1-b453-81e6b3e1923d.png)
+
+
+</details>
